@@ -1,0 +1,43 @@
+body{
+
+background-color:lightgrey;
+color:black;
+line-height:1.7;
+font-family:cambria,cohin,georgia,times,times new roman,serif;
+font-size:100%;}
+
+img {
+max-width:100%;
+height:auto;
+
+}
+.center-text {
+    text-align: center;
+}
+
+#img-div {
+    background-color:white;
+    text-align: center;
+    padding:10px;
+}
+
+#tribute-info {
+    margin: auto;
+    width: 50%;
+    
+
+}
+
+#tribute-link {
+    margin:auto;
+    text-align:center;
+    font-size:25px;
+}
+
+
+blockquote {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-size:15px;
+}
